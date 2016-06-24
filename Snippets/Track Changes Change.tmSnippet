@@ -5,13 +5,13 @@
 	<key>content</key>
 	<string>\\change[${1:editor}]{$TM_SELECTED_TEXT$3}{${2:New text}} $0</string>
 	<key>keyEquivalent</key>
-	<string>~@C</string>
+	<string>~@t</string>
 	<key>name</key>
 	<string>Change</string>
 	<key>scope</key>
 	<string>text.tex.latex</string>
 	<key>tabTrigger</key>
-	<string>tcchange</string>
+	<string>tc</string>
 	<key>uuid</key>
 	<string>7F831D32-FAB4-4EE0-A9EE-24BDA73CFB71</string>
 </dict>

@@ -5,13 +5,13 @@
 	<key>content</key>
 	<string>\\addeditor{$TM_SELECTED_TEXT$1} $0</string>
 	<key>keyEquivalent</key>
-	<string>~@E</string>
+	<string>~@t</string>
 	<key>name</key>
 	<string>Add Editor</string>
 	<key>scope</key>
 	<string>text.tex.latex</string>
 	<key>tabTrigger</key>
-	<string>tced</string>
+	<string>tc</string>
 	<key>uuid</key>
 	<string>FBDC1437-C0A6-4452-A1AF-A57CF4AE4209</string>
 </dict>
