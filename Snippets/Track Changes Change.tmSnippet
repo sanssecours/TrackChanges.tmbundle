@@ -8,6 +8,8 @@
 	<string>~@C</string>
 	<key>name</key>
 	<string>Change</string>
+	<key>scope</key>
+	<string>text.tex.latex</string>
 	<key>tabTrigger</key>
 	<string>tcchange</string>
 	<key>uuid</key>

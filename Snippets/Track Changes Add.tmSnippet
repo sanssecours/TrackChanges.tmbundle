@@ -8,6 +8,8 @@
 	<string>~@+</string>
 	<key>name</key>
 	<string>Add</string>
+	<key>scope</key>
+	<string>text.tex.latex</string>
 	<key>tabTrigger</key>
 	<string>tc+</string>
 	<key>uuid</key>

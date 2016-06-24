@@ -8,6 +8,8 @@
 	<string>~@N</string>
 	<key>name</key>
 	<string>Note</string>
+	<key>scope</key>
+	<string>text.tex.latex</string>
 	<key>tabTrigger</key>
 	<string>tcnote</string>
 	<key>uuid</key>

@@ -8,6 +8,8 @@
 	<string>~@A</string>
 	<key>name</key>
 	<string>Annote</string>
+	<key>scope</key>
+	<string>text.tex.latex</string>
 	<key>tabTrigger</key>
 	<string>tcannote</string>
 	<key>uuid</key>

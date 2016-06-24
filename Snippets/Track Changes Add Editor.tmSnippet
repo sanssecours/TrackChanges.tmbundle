@@ -8,6 +8,8 @@
 	<string>~@E</string>
 	<key>name</key>
 	<string>Add Editor</string>
+	<key>scope</key>
+	<string>text.tex.latex</string>
 	<key>tabTrigger</key>
 	<string>tced</string>
 	<key>uuid</key>
