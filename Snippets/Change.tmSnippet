@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>\\change[${1:editor}]{$TM_SELECTED_TEXT$3}{${2:New text}} $0</string>
+	<string>\\change[${1:${TM_TRACK_CHANGES_EDITOR:-editor}}]{$TM_SELECTED_TEXT$3}{${2:New text}} $0</string>
 	<key>keyEquivalent</key>
 	<string>~@t</string>
 	<key>name</key>
