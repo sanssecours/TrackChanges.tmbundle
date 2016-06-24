@@ -7,7 +7,7 @@
 	<key>contactName</key>
 	<string>René Schwaiger</string>
 	<key>description</key>
-	<string></string>
+	<string>Support for the &lt;a href="http://trackchanges.sourceforge.net"&gt;TrackChanges&lt;/a&gt; LaTeX package.</string>
 	<key>name</key>
 	<string>TrackChanges</string>
 	<key>uuid</key>
